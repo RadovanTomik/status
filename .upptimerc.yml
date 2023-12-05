@@ -13,6 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
+  theme: light
   baseUrl: /status 
   logoUrl: https://www.bbmri-eric.eu/wp-content/uploads/favicon.png
   name: BBMRI-ERIC Status
