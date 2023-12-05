@@ -13,9 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  baseUrl: /status # where "repo" is your repository name
-  name: BBMRI-ERIC Status
-  # baseUrl: /your-repo-name
+  baseUrl: /status 
   logoUrl: https://www.bbmri-eric.eu/wp-content/uploads/favicon.png
   name: BBMRI-ERIC Status
   introTitle: "**BBMRI-ERIC STATUS BOARD**"
