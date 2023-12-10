@@ -40,18 +40,20 @@
     "url": "https://directory.bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/directory.bbmri-eric.eu.ico",
     "slug": "directory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1323,
-    "timeDay": 1144,
-    "timeWeek": 1323,
-    "timeMonth": 1323,
-    "timeYear": 1323,
-    "dailyMinutesDown": {}
+    "time": 1356,
+    "timeDay": 1397,
+    "timeWeek": 1356,
+    "timeMonth": 1356,
+    "timeYear": 1356,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "Test Broken Site",
