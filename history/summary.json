@@ -22,7 +22,7 @@
     "url": "https://bbmri-eric.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bbmri-eric.eu.ico",
     "slug": "bbmri-eric",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 7372,
     "timeMonth": 4934,
     "timeYear": 4934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "Directory",
